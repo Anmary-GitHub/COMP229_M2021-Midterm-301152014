@@ -1,4 +1,4 @@
-# COMP229-M2021-MidTerm Test (TypeScript version)
+# COMP229-M2021-MidTerm Test
 
 ## Welcome to the MidTerm Project - the Favourite Book List App
 
